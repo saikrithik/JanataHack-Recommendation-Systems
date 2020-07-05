@@ -37,6 +37,8 @@ The client has provided you with history of last 10 challenges the user has solv
 2. pandas and numpy libraries for methodology
 3. Tensorflow and keras library for the model
 4. matplotlib and seaborn was used for plotting and analyzing the data
+## Credits:
+Approach is taken from:McKinsey Analytics Online Hackathon- Recommendation Design [Here](https://github.com/ybabakhin/mckinsey)
 #### Competition Result
 Rank: 7th on public LB and __ on private LB\
 [Link](https://datahack.analyticsvidhya.com/contest/janatahack-recommendation-systems/#LeaderBoard)
