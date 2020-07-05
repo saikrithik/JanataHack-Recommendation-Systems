@@ -38,5 +38,5 @@ The client has provided you with history of last 10 challenges the user has solv
 3. Tensorflow and keras library for the model
 4. matplotlib and seaborn was used for plotting and analyzing the data
 #### Competition Result
-Rank: 5th on public LB and __ on private LB\
+Rank: 7th on public LB and __ on private LB\
 [Link](https://datahack.analyticsvidhya.com/contest/janatahack-recommendation-systems/#LeaderBoard)
