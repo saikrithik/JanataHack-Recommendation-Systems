@@ -1,5 +1,5 @@
 # JanataHack-Recommendation-Systems
-**Solution for JanathaHack: Recommendation System** \  
+**Rank 7 Solution for JanathaHack: Recommendation System** \
 The client has provided you with history of last 10 challenges the user has solved, and you need to predict which might be the next 3 challenges the user might be interested to solve. Apply your data science skills to help the client make a big mark in their user engagements/revenue.
   
 ## Data Description at a Glance
@@ -40,5 +40,5 @@ The client has provided you with history of last 10 challenges the user has solv
 ## Credits:
 Final Approach is taken from McKinsey Analytics Online Hackathon- Recommendation Design [Here](https://github.com/ybabakhin/mckinsey)
 ## Competition Result
-Rank: 7th on public LB and __ on private LB\
+Rank: 7th on public LB and 7th on private LB\
 [Link](https://datahack.analyticsvidhya.com/contest/janatahack-recommendation-systems/#LeaderBoard)
